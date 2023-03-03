@@ -1,0 +1,7 @@
+.homelists{
+    display: flex;
+    justify-content:space-around
+}
+.homelistcontainer{
+    padding: 20px;
+}

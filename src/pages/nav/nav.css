@@ -1,0 +1,11 @@
+.navheader{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+.navheader *{
+    color: white;
+}
